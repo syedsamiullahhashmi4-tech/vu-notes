@@ -13,4 +13,4 @@
 - [STA301 - Statistics and Probability](./STA301/)
 
 ---
-Made with ❤️ by Sami
+Made with ❤️ by SamiUllah 
